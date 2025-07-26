@@ -80,11 +80,13 @@ span{
 .card-container{
   display: grid;
   grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+ 
 }
 
 .card{
-  border: 1px solid #000000;
-  width: 300px;
+  width: 270px;
+  height: 491px;
   border-radius: 20px;
   
 }
