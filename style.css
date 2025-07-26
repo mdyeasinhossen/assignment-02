@@ -1,13 +1,18 @@
 /* nav section*/
+
+.body{
+    margin: 0 auto;
+
+}
 .nav-container{
+    margin: 0 20;
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
   width: 1140px;
   height: 70px; 
   margin-bottom: 100px ;
-  border: 1px solid #000000;
-  
+ 
 }
 .light-text{
   color: #757659;
@@ -46,7 +51,6 @@ span{
 /* main section*/
 /* info section*/
 .info{
-  border: 1px solid #000000;
   display: flex;
   justify-content: center;
   
