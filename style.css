@@ -132,7 +132,7 @@ margin-bottom: 10px;
   justify-content: center;
   align-items: center;
   height: 400px;
-  background-image: url(/src/deal-zabo.png);
+  background-image: url(./src/deal-zabo.png);
   background-size: cover;
   
 }
@@ -141,7 +141,7 @@ margin-bottom: 10px;
   justify-content: center;
   align-items: center;
   height: 400px;
-  background-image: url(/src/deal-bloom.png);
+  background-image: url(./src/deal-bloom.png);
   background-size: cover;
   
 }
@@ -151,7 +151,7 @@ margin-bottom: 10px;
   justify-content: center;
   align-items: center;
   height: 400px;
-  background-image: url(/src/deal-ana.png);
+  background-image: url(./src/deal-ana.png);
   background-size: cover;
 }
 
@@ -190,4 +190,4 @@ a{
     display: flex;
   flex-direction: column;
   
-      }
+}
