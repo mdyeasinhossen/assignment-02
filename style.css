@@ -187,6 +187,8 @@ margin-bottom: 10px;
 }
 .end-container{
   display: flex;
+  width: 1440px;
+  height: 348px;
   
 }
 a{
