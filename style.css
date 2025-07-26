@@ -1,11 +1,11 @@
 /* nav section*/
 
 .body{
-    margin: 0 auto;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .nav-container{
-    margin: 0 20;
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
